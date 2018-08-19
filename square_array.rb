@@ -1,5 +1,5 @@
 def square_array(array)
-  numbers = []
+  a = []
   array.each {|num| arr << num **2}
-  return numbers
+  return a
 end
